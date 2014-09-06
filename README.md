@@ -1,4 +1,4 @@
-This is the repository for the subtitles of the German Kabarett show episode "Revolution" from the 16th of March 2014.
+This is the repository for the subtitles of the German Kabarett show episode "Revolution" from the 11th of March 2014.
 
 Instructions on how to watch episode with these subtitles:
 
